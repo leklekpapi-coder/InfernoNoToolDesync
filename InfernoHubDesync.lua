@@ -84,7 +84,7 @@ local function ExecuteDesync()
     -- Notification spam
     local Notify = ReplicatedStorage.Packages.Net["RE/NotificationService/Notify"]
     for i = 1, 3 do
-        firesignal(Notify.OnClientEvent, '<font color="#db1d1d">SilentHub On Top!!!</font>', 5, "Sounds.Sfx.Success")
+        firesignal(Notify.OnClientEvent, '<font color="#db1d1d">InfernoHub On Top!!!</font>', 5, "Sounds.Sfx.Success")
     end
 
     -- Apply all FFlags

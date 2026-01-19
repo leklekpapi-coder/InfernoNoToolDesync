@@ -208,4 +208,4 @@ DiscordButton.MouseButton1Click:Connect(function()
     DiscordButton.Text = "Copy Discord"
 end)
 
-print("SilentHub Desync V3 Loaded")
+print("InfernoHub Desync Loaded")
